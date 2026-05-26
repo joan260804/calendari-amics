@@ -1,6 +1,6 @@
 {
   "name": "Calendari Amics",
-  "short_name": "Amics",
+  "short_name": "Calendari Amics",
   "description": "Calendari compartit amb els amics",
   "start_url": "./calendario-amics.html",
   "display": "standalone",
